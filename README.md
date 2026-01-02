@@ -2,16 +2,18 @@
 
 # Greetings! I'm utkarshbhola 👋
 
-### HTML Frontend Development Specialist | Focused Engineer
+### Building backend systems from first principles — Go, distributed systems, and infra-oriented projects.
 
 </div>
 
 ---
 
 ### 🌐 About Me
+I’m a backend-focused engineer who enjoys learning systems by building them from first principles.
 
-As an HTML Frontend Development Specialist and Focused Engineer, I am dedicated to crafting robust, intuitive, and high-performance web interfaces. My expertise lies in precise execution and continuous improvement, ensuring the delivery of high-quality, impactful technical solutions. My technical journey is characterized by a 🌱 casual yet consistent engagement, reflecting a balanced approach to continuous learning and project execution.
+Instead of relying only on frameworks, I build small but realistic system replicas, like a mini Redis, mini Kafka, and geo-based services, to understand networking, concurrency, data flow, and distributed system tradeoffs.
 
+Currently working with Go and focused on backend infrastructure, scalability, and system design fundamentals.
 ---
 
 ### 🛠️ Core Skills
@@ -24,21 +26,8 @@ Leveraging a diverse set of technologies, I am proficient in various programming
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-*   C
-*   C#
-*   C++
-*   EJS
-*   Erlang
-*   Go
-*   Java
-*   Kotlin
-*   PHP
-*   Perl
-*   Ruby
-*   Scheme
-*   Shell
-*   TypeScript
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
 
 ---
 
@@ -57,7 +46,7 @@ Here are a few projects that highlight my technical capabilities and problem-sol
 *   **Metrics:** 0 ⭐, 0 🍴
 
 #### 3. [mental-health](https://github.com/utkarshbhola/mental-health)
-*   **Description:** Not specified.
+*   **Description:** 
 *   **Languages:** Not specified
 *   **Metrics:** 0 ⭐, 0 🍴
 
