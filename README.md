@@ -9,16 +9,34 @@
 ---
 
 ### 🌐 About Me
-I’m a backend-focused engineer who enjoys learning systems by building them from first principles.
+I focus on backend and systems engineering, with an emphasis on understanding how things work internally, not just how to use frameworks.
 
-Instead of relying only on frameworks, I build small but realistic system replicas, like a mini Redis, mini Kafka, and geo-based services, to understand networking, concurrency, data flow, and distributed system tradeoffs.
+To do this, I build small but realistic system implementations such as:
 
-Currently working with Go and focused on backend infrastructure, scalability, and system design fundamentals.
+in-memory data stores
+
+message queues
+
+geo-based backend services
+
+These projects help me reason about networking, concurrency, data flow, scalability, and design tradeoffs that show up in real production systems.
+
+Currently exploring Go, distributed systems fundamentals, and backend architecture.
 ---
 
 ### 🛠️ Core Skills
+Backend & Systems Concepts
+---
 
-Leveraging a diverse set of technologies, I am proficient in various programming languages and development tools, with a strong focus on frontend technologies.
+TCP servers & networking basics
+
+Concurrency & goroutines
+
+In-memory storage
+
+Message queues (pub/sub, offsets, partitions)
+
+System design tradeoffs
 
 #### Languages
 
@@ -29,7 +47,6 @@ Leveraging a diverse set of technologies, I am proficient in various programming
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
 
----
 
 ### 🚀 Featured Projects
 
@@ -51,15 +68,6 @@ Here are a few projects that highlight my technical capabilities and problem-sol
 *   **Metrics:** 0 ⭐, 0 🍴
 
 ---
-
-### 📊 GitHub Stats
-
-My GitHub profile reflects my ongoing commitment to development and collaboration.
-
-Total Stars: 0 | Total Forks: 0
-
-[![utkarshbhola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshbhola&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshbhola&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
