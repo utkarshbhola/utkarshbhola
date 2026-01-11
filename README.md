@@ -52,20 +52,18 @@ System design tradeoffs
 
 Here are a few projects that highlight my technical capabilities and problem-solving approach:
 
-#### 1. [Utkarsh](https://github.com/utkarshbhola/Utkarsh)
-*   **Description:** My personal portfolio website, designed to showcase a compilation of my technical work and frontend development expertise.
-*   **Languages:** Not specified
-*   **Metrics:** 0 ⭐, 0 🍴
-
-#### 2. [Apiwatch](https://github.com/utkarshbhola/Apiwatch)
+####  1. [Apiwatch](https://github.com/utkarshbhola/Apiwatch)
 *   **Description:** A comprehensive platform engineered to monitor and analyze API requests across distributed microservices. It captures performance metrics, facilitates issue analysis, and presents data via an intuitive dashboard.
-*   **Languages:** Not specified
-*   **Metrics:** 0 ⭐, 0 🍴
+*   **Languages:** Springboot, Kotlin, MongoDB, NextJs
 
-#### 3. [mental-health](https://github.com/utkarshbhola/mental-health)
+#### 2. [mental-health](https://github.com/utkarshbhola/mental-health)
 *   **Description:** 
-*   **Languages:** Not specified
-*   **Metrics:** 0 ⭐, 0 🍴
+*   **Languages:** React + vite
+
+#### 3. [Tournament-engine](https://github.com/utkarshbhola/tournament-engine)
+*   **Description:**  A CLI-based underground fighting tournament simulation engine built in Golang.
+*   **Languages:** Golang
+
 
 ---
 
